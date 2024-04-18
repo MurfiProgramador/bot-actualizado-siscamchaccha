@@ -1,0 +1,69 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51906051302@s.whatsapp.net',
+    fromMe: false,
+    id: '68034B1945C8F61539DFA28AF980F936',
+    participant: undefined
+  },
+  messageTimestamp: 1713458459,
+  pushName: 'Bot De WhatsApp',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51906051302'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1feb56ea-68cc-42e9-8a91-c175e46250bb',
+  keyword: 'key_53f56552-109f-407b-8815-f3366fcd56ad',
+  answer: '🙌 Hola Bienvenido, Soy *YHASEB* el *Chatbot* 🤖 de *SISCAMCHACCHA* estare para apoyarlo🤝',
+  options: {
+    media: 'https://i.imgur.com/WTXaDCk.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3303f0dbf82bed969f40f4302d31d659'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25b2e7c6-2fe7-4b55-9522-65f12e710510',
+  keyword: 'ans_1feb56ea-68cc-42e9-8a91-c175e46250bb',
+  answer: 'En esta oportunidad le ayudare con su compra y le brindare informacion de nuestros servicios; Dime cual desea??👇.\n' +
+    '👨‍💻 *[ 1 ]* *Informacion.*  Para enviarle el link de pagina y revise nuestros productos y servicios.\n' +
+    '🛒 *[ 2 ]* *Productos.*   Para ver la lista de productos y marcas que trabajamos.\n' +
+    '👷 *[ 3 ]* *Instalacion.*  Conocer precios de instalacion. (los precios son aprox)\n' +
+    '🛠️ *[ 4 ]* *Mantenimiento.*  Registrar un mantenimiento o consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4e26c8bc87efe3d82d2aa3712a3a8657'
+}
